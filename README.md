@@ -1,6 +1,6 @@
 <div>
 <h2 align="center">
-Hi 👋, I am Ravi Sharma. 
+Hi 👋, I am Arjun Lakshakar. 
 </h2>
 <hr>
 <h2 align="center">
@@ -11,11 +11,25 @@ Expereinced full stack web developer from India
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
-<h2 align="center">💫  About Me </h2>
- 🔭 I’m currently working in upscaller as a lead developer <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
-<!--  📫  Know more about me <a href="https://ravi80595.github.io/">Portfolio</a><br><br> -->
+<h2 align="center">💫 About Me</h2>
+
+🧑‍💻 I am a **Full Stack Developer (MERN & Java Spring Boot)** <br><br>
+
+🔍 I’m currently **seeking full-time opportunities / internships** in **Full Stack or Backend Development** <br><br>
+
+🌱 I’m currently learning and building projects using the **MERN Stack & Java Spring Boot** <br><br>
+
+🚀 I enjoy building **scalable APIs, secure backends, and responsive UIs** <br><br>
+
+💡 I have built projects like **E-commerce app, Job Portal, Portfolio site, and YouTube Clone** <br><br>
+
+😄 All of my projects are available here:  
+👉 **https://github.com/arjunlakshkar** <br><br>
+
+📫 You can reach me at: **arjunlakshkar1234@gmail.com** <br><br>
+
+📍 Based in **Bengaluru, India**
+
  😄 All of my projects are available at
 <a href="https://github.com/Ravi80595">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
