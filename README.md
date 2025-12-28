@@ -29,28 +29,18 @@ Expereinced full stack web developer from India
 <h2 align="center">📱 Connect With Me</h2>
 
 <p align="center">
-
-<!-- Portfolio Icon -->
-<a href="https://arjunlakshkar.github.io/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40" alt="website"/>
-</a>
-
-
 <!-- Portfolio Badge -->
 <a href="https://arjunlakshkar.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="portfolio"/>
 </a>
-
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/arjun-lakshakar-31686b309/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin"/>
 </a>
-
 <!-- LeetCode -->
 <a href="https://leetcode.com/u/ArjunLaxkar/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="leetcode"/>
 </a>
-
 </p>
 
 <br />
