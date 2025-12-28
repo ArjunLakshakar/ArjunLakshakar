@@ -109,13 +109,24 @@ Expereinced full stack web developer from India
 <br/>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="masum" /> </p> -->
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<h2 align="center">📊 My GitHub Stats </h2>
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ravi80595&theme=dark&show_icons=true">
-<img src="https://streak-stats.demolab.com?user=Ravi80595&theme=github-dark" alt="Ravi" />
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=arjunlakshkar&theme=dark&show_icons=true" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=arjunlakshkar&theme=github-dark" />
+
 </div>
+
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ravi80595&margin-w=15" alt="kkshakya" /> </p>
- <h2> ✍️ Random Dev Quote </h2>
- <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
+
+<!-- Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjunlakshkar&margin-w=15" />
+</p>
+
 </div>
