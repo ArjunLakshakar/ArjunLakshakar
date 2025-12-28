@@ -1,52 +1,111 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">ROLE | STACK (e.g., MERN Developer | Cyber Security Enthusiast)</h3>
+<h1 align="center">Hi 👋, I'm Arjun Lakshakar</h1>
+<h3 align="center">Full Stack Developer | MERN & Java Spring Boot</h3>
+
+<p align="center">
+📍 Bengaluru, India • 
+📧 arjunlakshkar1234@gmail.com • 
+📱 +91-9636465868  
+</p>
 
 ---
 
-## 🔥 About Me
+## 🧑‍💻 Summary
 
-I aim to become a skilled YOUR FIELD (e.g., MERN Developer / Penetration Tester) and leverage my
-technical knowledge to build real–world projects and solve problems.  
-My goal is to continuously learn, improve, and contribute to the tech community.
+Full Stack Developer with hands-on experience in **Java (Spring Boot) and the MERN stack** (MongoDB, Express.js, React.js, Node.js). Proficient in building scalable APIs, secure backend systems, and responsive front-end interfaces. Demonstrated ability to collaborate on enterprise-level projects with clean architecture and performance optimization.
 
 ---
 
-## 🌐 Socials
+## 🛠 Technical Skills
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> |
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a> |
-<a href="YOUR_INSTAGRAM_URL">Instagram</a>
+### 🚀 Languages
+Java • JavaScript • TypeScript • SQL • Python • HTML • CSS
+
+### 🧩 Technologies & Frameworks
+Next.js • React.js • Express.js • Node.js • Redux  
+MongoDB • Spring Boot • REST APIs • DSA • AWS
+
+### 🧰 Developer Tools
+Git • GitHub • VS Code • IntelliJ IDEA • Postman • MongoDB Compass
+
+### 🤝 Soft Skills
+Problem-solving • Team collaboration • Communication
 
 ---
 
-## 💻 Tech Stack
+## 🎓 Education
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
+**Chandigarh University — Master of Computer Applications (MCA)**  
+📌 CGPA: 9.0  
+🗓 June 2024 – June 2026  
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
+**Sinhgad College of Commerce — Bachelor of Computer Applications (BCA)**  
+📌 CGPA: 8.6  
+🗓 April 2021 – April 2024  
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=fff)
+---
+
+## 💼 Work Experience
+
+### TechVistra, Pune — *Full Stack Developer Intern*  
+🗓 Jan 2025 – July 2025  
+
+- Developed and maintained full-stack applications using **Java & MERN**  
+- Built and deployed the official **TechVistra corporate website**  
+- Designed reusable React components and dynamic content rendering  
+- Built **secure RESTful APIs**, JWT authentication  
+- Optimized **SQL/NoSQL queries**
+
+---
+
+## 🧩 Projects
+
+### 🔹 My Portfolio | React, Tailwind CSS, JavaScript
+- Built responsive modern portfolio
+- Added typing animation, loaders, dynamic project showcase
+
+### 🔹 Job Portal – Find Your Dream Job | Java Spring Boot + React
+- Full-stack job portal with JWT authentication  
+- Role-based access control  
+- Recruiters can post jobs, users can apply/search
+
+### 🔹 ShoppyGlobe – E-Commerce Site | MERN Stack
+- Product listing, cart, order management  
+- JWT authentication + Redux state management  
+- Modal-based checkout
+
+### 🔹 YouTube Clone | MERN Stack
+- Video upload, like/dislike, subscriptions, comments  
+- Category-based video filtering  
+- Responsive UI inspired by YouTube
+
+---
+
+## 🏅 Certificates
+
+- ✔ Version Control with Git & GitHub — Internshala  
+- ✔ JavaScript — Internshala  
+- ✔ React.js — Internshala  
+- ✔ Node.js, Express.js, MongoDB — Internshala  
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunlakshkar&show_icons=true&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunlakshkar&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunlakshkar&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+## 🌐 Connect with me
 
+- 🔗 LinkedIn: YOUR LINK HERE
+- 🐙 GitHub: https://github.com/arjunlakshkar
