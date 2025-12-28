@@ -29,11 +29,16 @@ Expereinced full stack web developer from India
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
- <a href="https://arjunlakshkar.github.io/" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png" alt="Ravi Sharma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arjun-lakshakar-31686b309/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
+ <a href="https://arjunlakshkar.github.io/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website" height="30" width="40" />
+</a>
+<a href="https://arjunlakshkar.github.io/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/arjun-lakshakar-31686b309/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arjun Lakshakar" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/ArjunLaxkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/Ravi11967071" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinglaw" height="30" width="40" /></a>
-</p> -->
+
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <!-- <div align="center">
