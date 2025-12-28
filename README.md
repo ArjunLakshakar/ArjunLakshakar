@@ -14,43 +14,33 @@ Expereinced full stack web developer from India
 <h2 align="center">💫 About Me</h2>
 
 🧑‍💻 I am a **Full Stack Developer (MERN & Java Spring Boot)** <br><br>
-
 🔍 I’m currently **seeking full-time opportunities / internships** in **Full Stack or Backend Development** <br><br>
-
 🌱 I’m currently learning and building projects using the **MERN Stack & Java Spring Boot** <br><br>
-
 🚀 I enjoy building **scalable APIs, secure backends, and responsive UIs** <br><br>
-
 💡 I have built projects like **E-commerce app, Job Portal, Portfolio site, and YouTube Clone** <br><br>
-
-😄 All of my projects are available here:  
-👉 **https://github.com/arjunlakshkar** <br><br>
-
+ 😄 All of my projects are available at
+<a href="https://github.com/arjunlakshkar">My Github Repositories</a><br><br>
 📫 You can reach me at: **arjunlakshkar1234@gmail.com** <br><br>
-
 📍 Based in **Bengaluru, India**
 
- 😄 All of my projects are available at
-<a href="https://github.com/Ravi80595">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me **rsharma80595@gmail.com**
+
+ 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
- <a href="https://ravi80595.github.io/" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png" alt="Ravi Sharma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ravi-sharma-399572219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
-<a href="https://leetcode.com/RaviSharma80595/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ravi.haryanvi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinglaw" height="30" width="40" /></a>
-<a href="https://twitter.com/Ravi11967071" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinglaw" height="30" width="40" /></a>
-</p>
+ <a href="https://arjunlakshkar.github.io/" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png" alt="Ravi Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arjun-lakshakar-31686b309/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ArjunLaxkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/Ravi11967071" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinglaw" height="30" width="40" /></a>
+</p> -->
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 <h2 align="center">🚀 Languages and Tools: </h2>
 <br/>
  <div align="center"><h3 align="center">Frontend</h3>
@@ -67,11 +57,24 @@ Expereinced full stack web developer from India
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
 </div>
  <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div>
+  <div align="center">
+
+<h3 align="center">Backend</h3>
+<!-- Node & Express -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+
+<!-- Spring Boot -->
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring boot"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+
+<!-- Firebase -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
+</div>
+
  <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
