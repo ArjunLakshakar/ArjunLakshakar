@@ -32,8 +32,9 @@ Expereinced full stack web developer from India
 
 <!-- Portfolio Icon -->
 <a href="https://arjunlakshkar.github.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" height="30" width="40" alt="website"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" height="30" width="40" alt="website"/>
 </a>
+
 
 <!-- Portfolio Badge -->
 <a href="https://arjunlakshkar.github.io/" target="_blank">
