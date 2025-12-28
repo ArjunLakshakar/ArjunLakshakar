@@ -114,19 +114,13 @@ Expereinced full stack web developer from India
 
 <div align="center">
 
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=arjunlakshkar&theme=dark&show_icons=true" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=arjunlakshkar&show_icons=true&theme=tokyonight" alt="stats" />
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=arjunlakshkar&theme=github-dark" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=arjunlakshkar&theme=tokyonight" alt="streak" />
 
-</div>
-
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-
-<!-- Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunlakshkar&margin-w=15" />
-</p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunlakshkar&layout=compact&theme=tokyonight" alt="langs" />
 
 </div>
