@@ -14,8 +14,7 @@ Expereinced full stack web developer from India
 <h2 align="center">💫 About Me</h2>
 
 🧑‍💻 I am a **Full Stack Developer (MERN & Java Spring Boot)** <br><br>
-// 🔍 I’m currently **seeking full-time opportunities / internships** in **Full Stack or Backend Development** <br><br>
-🌱 I’m currently learning and building projects using the **MERN Stack & Java Spring Boot** <br><br>
+🌱 I’m building projects using the **MERN Stack & Java Spring Boot** <br><br>
 🚀 I enjoy building **scalable APIs, secure backends, and responsive UIs** <br><br>
 💡 I have built projects like **E-commerce app, Job Portal, Portfolio site, and YouTube Clone** <br><br>
  😄 All of my projects are available at
@@ -30,7 +29,7 @@ Expereinced full stack web developer from India
 
 <p align="center">
 <!-- Portfolio Badge -->
-<a href="https://arjunlakshkar.github.io/" target="_blank">
+<a href="https://arjunlakshakar-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="portfolio"/>
 </a>
 <!-- LinkedIn -->
